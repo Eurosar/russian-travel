@@ -1,11 +1,11 @@
-.place__website_link {
+.place__link {
   margin: 0;
   padding: 0;
   font-size: 18px;
   line-height: 22px;
-  text-decoration-line: underline;
+  border-bottom: 1px solid #ffffff;
   color: #ffffff;
 }
-.place__website_link:hover {
+.place__link:hover {
   opacity: .8;
 }

@@ -8,16 +8,13 @@
   text-align: center;
   text-decoration: none;
   box-sizing: border-box;
+  border-bottom: 2px solid #fff;
   color: #fff;
 }
 
 .header__lang-link:last-child {
   margin: 18px 0 0 0;
   border-bottom: none;
-}
-
-.header__lang-link:focus {
-  border-bottom: 2px solid #fff;
 }
 
 @media (max-width: 320px) {
