@@ -2,26 +2,4 @@
   margin: 0;
   padding: 0;
   max-width: 100%;
-  position: center;
 }
-/* .place__item { */
-/*   max-height: 460px; */
-/* } */
-
-/* @media (max-width: 1024px) { */
-/*   .place__image { */
-/*     max-height: 440px; */
-/*   } */
-/* } */
-
-/* @media (max-width: 768px) { */
-/*   .place__image { */
-/*     max-height: 340px; */
-/*   } */
-/* } */
-
-/* @media (max-width: 320px) { */
-/*   .place__image { */
-/*     max-height: 320px; */
-/*   } */
-/* } */

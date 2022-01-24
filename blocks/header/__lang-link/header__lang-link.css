@@ -1,32 +1,15 @@
 .header__lang-link {
-  margin: 18px 18px 0 0;
-  padding: 0;
-  width: 30px;
-  height: 28px;
   font-size: 24px;
   line-height: 28px;
-  text-align: center;
   text-decoration: none;
-  box-sizing: border-box;
-  border-bottom: 2px solid #fff;
   color: #fff;
 }
 
-.header__lang-link:last-child {
-  margin: 18px 0 0 0;
-  border-bottom: none;
-}
+
 
 @media (max-width: 320px) {
   .header__lang-link {
-    margin: 14px 18px 0 0;
-    width: 22px;
-    height: 20px;
     font-size: 18px;
     line-height: 20px;
-  }
-
-  .header__lang-link:last-child {
-    margin: 14px 0 0 0;
   }
 }
